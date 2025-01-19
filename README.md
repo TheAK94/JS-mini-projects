@@ -33,3 +33,9 @@ Here’s the list of mini projects included in this repository:
 - Fetch API for asynchronous data fetching (in API-related projects)
 
 ---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
