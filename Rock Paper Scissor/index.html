@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Rock Paper Scissor Game</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css">
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <div class="container">
+            <h1 class="mt-4 text-center">ROCK PAPER SCISSOR</h1>
+            <div class="d-flex justify-content-between mt-4">
+                <button type="button" class="btn btn-outline-primary" id="btn-reset">Reset Score</button>
+                <div>
+                    <p class="fs-6" id="score">Your Score: 0</p>
+                    <p class="fs-6" id="scoreComp">Computer Score: 0</p>
+                </div>
+            </div>            
+        </div>
+
+        <div class="container mt-5">
+            <div class="d-flex justify-content-evenly">
+                <div class="btn choice" id="rock"></div>
+                <div class="btn choice" id="paper"></div>
+                <div class="btn choice" id="scissor"></div>
+            </div>
+        </div>
+
+        <div class="container mt-5">
+            <div class="p-3 text-primary-emphasis bg-secondary-subtle border border-primary-subtle rounded-3">
+                <p class="mb-0 text-center fs-4" id="result-line">Pick your option</p>
+            </div>
+        </div>
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="script.js"></script>
+    </body>
+</html>
