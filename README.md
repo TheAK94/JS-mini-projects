@@ -23,6 +23,8 @@ Here’s the list of mini projects included in this repository:
 1. **To-Do List App**
 2. **Random Colour Generator**
 3. **Simon Says Game**
+4. **Joke generator**
+5. **Rock Paper Scissor**
 
 ---
 
