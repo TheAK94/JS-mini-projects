@@ -25,6 +25,7 @@ Here’s the list of mini projects included in this repository:
 3. **Simon Says Game**
 4. **Joke generator**
 5. **Rock Paper Scissor**
+6. **Weather App**
 
 ---
 
